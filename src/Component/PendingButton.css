@@ -1,0 +1,10 @@
+button{
+    width: 8em;
+    height: 3em;
+    font-size: 1.5em;
+    background: lightcoral;
+    color: #fff;
+    border-radius: .3em;
+    border: none;
+    margin: 2em;
+}
